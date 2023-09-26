@@ -7,6 +7,7 @@ For syntax and help be sure to check the [wiki](https://github.com/jasontheone11
 Download `sysFunc.h` from the latest release.
 
 [Latest Release](https://github.com/jasontheone111/sysFunc/releases/latest)
+
 ---
 Place `sysFunc.h` in the same location as your `.cpp` file.
 
